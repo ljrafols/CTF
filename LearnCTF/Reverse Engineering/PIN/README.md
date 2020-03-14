@@ -29,4 +29,4 @@ Once the password is confirmed to be correct, you can send in the flag.
 
 
 # Flag
-Flag = **flag{333333}**
+**flag{333333}**
